@@ -35,7 +35,3 @@ A modern, responsive portfolio website for **MK DEV** (a multi-talented computer
 - Git & GitHub for version control
 - Custom webfonts (from `webfonts/` folder)
 - Video files (from `video/` folder)
-
----
-
-## 📂 Project Structure
